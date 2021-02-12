@@ -1,12 +1,12 @@
-#### Aporeum
+## Aporeum
 
 Aporeum is a post ICO token on the ERC20 blockchain baked on real stock index.
 
-### Usage
+## Usage
 
 Here you will find Aporeum's APIs and trading wallets.
 
-### License
+## License
 
 Copyright (c) 2021 Aporeum, Inc.
 
