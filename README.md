@@ -1,6 +1,6 @@
 # Aporeum
 
-Aporeum is a digital Token, backed by Apple, Microsoft, Amazon indexed stocks.
+Aporeum is a token on the ERC20 blockchain baked by worldwide top tech companies stock index.
 
 ## Usage
 
