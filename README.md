@@ -1,6 +1,6 @@
 # Aporeum
 
-Aporeum is a token on the ERC20 blockchain baked by worldwide top tech companies stock index.
+Aporeum is a token on the ERC20 blockchain backed by worldwide top tech companies stock index.
 
 ## Usage
 
