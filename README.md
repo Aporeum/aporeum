@@ -1,6 +1,6 @@
 # Aporeum
 
-Aporeum is a post ICO token on the ERC20 blockchain baked on real stock index.
+Aporeum is a digital Token, backed by Apple, Microsoft, Amazon indexed stocks.
 
 ## Usage
 
